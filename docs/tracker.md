@@ -27,6 +27,7 @@ Just put high level ideas + references here; split out into individual specs onc
   - also this [one](https://github.com/mattpocock/skills/blob/main/ubiquitous-language/SKILL.md)
   - [rjs](https://github.com/rjs/shaping-skills)
 - AI generated session names (pi-context)
+- response timer in footer (pi-usage)
 
 ## Extensions
 
@@ -53,6 +54,7 @@ Just put high level ideas + references here; split out into individual specs onc
   - [dev tools](https://github.com/ChromeDevTools/chrome-devtools-mcp)
   - [agent browser](https://github.com/vercel-labs/agent-browser)
   - [playwriter](https://github.com/remorses/playwriter)
+  - [browserai](https://github.com/mksglu/browsirai)
 
 ## Workflows
 
@@ -68,6 +70,7 @@ Just put high level ideas + references here; split out into individual specs onc
 - planning (blueprint -> plan; verification steps)
   - [dex](https://dex.rip/guide)
   - matt pocock skills [domain model](https://github.com/mattpocock/skills/tree/main/domain-model) and [to-prd](https://github.com/mattpocock/skills/blob/main/to-prd/SKILL.md)
+  - [hattice](https://github.com/mksglu/hatice)
 - commit messages (likely a skill or command)
 - debugging
   - matt pocock skills [qa](https://github.com/mattpocock/skills/blob/main/qa/SKILL.md) and [triage](https://github.com/mattpocock/skills/blob/main/triage-issue/SKILL.md)
